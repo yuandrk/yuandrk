@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Yurii 
 
-- 🗺️ I live in London, Great Britain.
-- 🤖 Junior DevOps Engineer. 
+- 🗺️ I live in London
+- 🤖 DevOps Engineer. 
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at yurii.andriuk@gmail.com
 
