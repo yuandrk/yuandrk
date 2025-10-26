@@ -1,7 +1,6 @@
 ## Hi there 👋 My name is Yurii 
 
 - 🗺️ I live in London
-- 🤖 DevOps Engineer. 
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at yurii.andriuk@gmail.com
 
@@ -9,7 +8,6 @@
 
 
 My CV: 
-
 
 ### :gear: My fancy badge area 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
