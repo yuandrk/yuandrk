@@ -56,9 +56,6 @@ Production-grade infrastructure running 24/7 with GitOps principles:
 
 </details>
 
-
-## 📈 GitHub Stats
-
 ## 📈 GitHub Stats
 
 <p align="center">
