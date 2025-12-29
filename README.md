@@ -1,8 +1,6 @@
 # Hey, I'm Yurii 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=DevOps+Engineer+%7C+London;GitOps+%26+Infrastructure+Automation;AWS+%7C+Kubernetes+%7C+Terraform)](https://git.io/typing-svg)
-
-**Cloud & DevOps Engineer** based in London, passionate about GitOps, infrastructure automation, and building reliable systems. Currently running a production-grade HomeLab and helping teams ship faster with automation.
+Passionate about GitOps, infrastructure automation, and building reliable systems. Currently running a production-grade HomeLab and helping teams ship faster with automation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuandrk/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurii.andriuk@gmail.com)
@@ -71,6 +69,3 @@ Production-grade infrastructure running 24/7 with GitOps principles:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuandrk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <i>Open to DevOps / Cloud / SRE opportunities in London or remote UK</i>
-</p>
